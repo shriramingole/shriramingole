@@ -27,7 +27,7 @@
 ## 🛠 Skills
 
 **Languages:**  
-`Java` `SQL` `JavaScript` `HTML5` `CSS3`
+`Java` `MYSQL` `JavaScript` `HTML5` `CSS3`
 
 **Backend:**  
 `Spring Boot` `Spring MVC` `Spring Data JPA` `Spring Security`
