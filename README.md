@@ -68,7 +68,7 @@
 
 ## 📂 Featured Project – 
 
-# Supply Chain Management System (Backend)
+# E-Commerce Backend Application
 
 ## 👋 Overview
 The E-Commerce Backend Application is a RESTful web service developed using Java and Spring Boot that simulates the backend functionality of an online shopping platform.
