@@ -71,21 +71,64 @@
 # Supply Chain Management System (Backend)
 
 ## 👋 Overview
-**Supply Chain Management System** is a simple, extensible backend built with **Java** and **Spring Boot** that demonstrates core supply-chain operations: managing suppliers, products, warehouses, purchase orders, and shipments.  
-This project is ideal for showcasing backend skills (REST APIs, JPA, MySQL), and can be extended into microservices.
+The E-Commerce Backend Application is a RESTful web service developed using Java and Spring Boot that simulates the backend functionality of an online shopping platform.
+This project provides secure APIs for managing users, products, shopping carts, and orders while following industry-standard backend architecture and best practices. It demonstrates real-world backend development concepts such as authentication, authorization, database management, and layered application design.
+The goal of this project is to showcase backend engineering skills including REST API development, secure authentication using JWT, database design with JPA/Hibernate, and clean code architecture suitable for production-level applications.
 
-**Tech Stack:** Java, Spring Boot, Spring Data JPA, MySQL, Maven, Docker (optional)
+**Tech Stack:** Java, Spring Boot, Spring Data JPA, Spring Security,MySQL, Maven, Docker (optional)
 
 ---
 
 ## 🚀 Features
-- CRUD for Suppliers, Products, Warehouses
-- Create & list Purchase Orders (PO) with statuses
-- Basic Shipment creation and tracking (status updates)
-- JPA-based persistence with MySQL
-- RESTful API with JSON payloads
-- Simple service layer and repository pattern
-- CORS enabled for frontend integration
+👤 User Management
+
+-User registration and login functionality
+
+-assword encryption and secure authentication
+
+-Role-based access control (Admin/User)
+
+🛍️ Product Management
+
+-Add, update, delete products (Admin access)
+
+-View all products
+
+-Product details API
+
+🛒 Cart Management
+
+-Add products to cart
+
+-Remove items from cart
+
+-View user cart
+
+📦 Order Management
+
+-Place orders
+
+-View order history
+
+-Admin order tracking
+
+🔐 Security Features
+
+-JWT-based authentication
+
+-Protected API endpoints
+
+-Secure request validation
+
+⚙️ Backend Capabilities
+
+-Global exception handling
+
+-DTO-based request and response handling
+
+-Database relationships using JPA
+
+-Clean and scalable project structure
 
 ---
 
@@ -94,7 +137,9 @@ This project is ideal for showcasing backend skills (REST APIs, JPA, MySQL), and
 - Spring Boot (Web, Data JPA)
 - MySQL
 - Maven
+- Postman(API Testing)
 - Optional Frontend: HTML/CSS/JS
+- Spring Security
 
 ---
 
@@ -117,7 +162,7 @@ This project is ideal for showcasing backend skills (REST APIs, JPA, MySQL), and
 
 ## 📬 Contact Me
 - **Email:** shriramingole002@gmail.com  
-- **LinkedIn:** www.linkedin.com/in/shriram-ingole8698  
+- **LinkedIn:** www.linkedin.com/in/shriramingole  
 - **GitHub:** http://github.com/shriramingole
 
 ---
